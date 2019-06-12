@@ -4,3 +4,9 @@
 [submodule "SrvAlpineLinuxOpenJDK"]
 	path = SrvAlpineLinuxOpenJDK
 	url = https://github.com/SimpleMethod/SrvAlpineLinuxOpenJDK.git
+[submodule "SRVClient"]
+	path = SRVClient
+	url = https://github.com/SimpleMethod/SRVClient
+[submodule "CodebinClient"]
+	path = CodebinClient
+	url = https://github.com/SimpleMethod/CodebinClient
